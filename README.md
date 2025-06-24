@@ -14,3 +14,5 @@ Key Features
 Enhanced Zijderveld Plots: Produce high-quality North–East–Up (NEU) vector component diagrams suitable for publication, with fully customizable visual styles.
 
 Smart Axis Management: Implements automatic tick spacing, adaptive scientific notation, and responsive scaling for optimal plot readability.
+
+![Better-Zijderveld-plot](images/test_pca_DE_BFL_A.png)
